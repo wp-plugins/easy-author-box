@@ -39,7 +39,7 @@ You can change them by manually editing the 'authorbox.css' file. It's easy!!
 
 = Can I put anchor texts or links in my author bio? =
 
-Yes, you can place anchor text or links in your author bio. You just need to put the html code in your Wordpress admin user profile section. (For example, "Robin works in a <a href="http://www.7boats.com">SEO company India</a>")
+Yes, you can place anchor text or links in your author bio. You just need to put the html code (<a href=...) in your Wordpress admin user profile section. (For example, "Robin works in a <a href="http://www.7boats.com">SEO company India</a>")
 
 = Where can I see a live Demo? =
 
