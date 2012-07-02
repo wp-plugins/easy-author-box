@@ -6,7 +6,7 @@ Plugin Name:Easy Author Box
 
 Plugin URI: http://www.7boats.com/wordpress-plugins/rohini/
 
-Description:Adds an author box after your post contents.The box contains author's avatar,name,post count,site link,personal description and Email.This plugin will allow you to place author bio in author url above all posts written by the author.This plugin works best with the twenty eleven theme.
+Description: Adds an author box after your post contents.The box contains author's avatar, name, post count, site link, personal description and Email / Social profile links such as Facebook, Twitter & Google+. This plugin will allow you to place author bio in author url above all posts written by the author.This plugin works best with the twenty eleven theme.
 
 Version: 1.0
 
