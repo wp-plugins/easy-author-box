@@ -23,9 +23,9 @@ Author URI:http://www.7boats.com/
 == Installation ==
 
 1. Upload the 'Easy Author Box' folder to the '/wp-content/plugins/' directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Edit your WordPress user profile.
-1. Use the settings page to choose when to display bio.
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Edit your WordPress user profile.
+4. Use the settings page to choose when to display bio.
 
 
 == Screenshots ==
@@ -37,5 +37,6 @@ Author URI:http://www.7boats.com/
 
 == Changelog ==
 
-The current version is 1.0 (2012.6.26)
+= 1.0 =
+* First official release.
 
