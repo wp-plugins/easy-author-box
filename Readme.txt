@@ -37,6 +37,10 @@ You can change your author pic from gravatar.com. You have to upload a pic and a
 
 You can change them by manually editing the 'authorbox.css' file. It's easy!!
 
+= Where can I see a live Demo? =
+
+You can see a live demo here - http://www.7boats.com/tips-to-benefit-from-google-panda-updates-penguin-updates/
+
 == Screenshots ==
 
 1. Author bio below a post correponds to screenshot 1.png
