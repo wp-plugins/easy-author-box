@@ -1,10 +1,17 @@
-Easy Author Box.
-== Description ==
-Plugin Name:Easy Author Box 
-
+=== Easy Author Box ===
+Contributors: rohinisingh
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=986WUNQXKBTU8
+Tags: Author, bio,
+Requires at least: 3.0.1
+Tested up to: 3.4.1
+Stable tag: 1.0
 Plugin URI: http://www.7boats.com/wordpress-plugins/rohini/
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Description:Adds an author box after your post contents.The box contains author's avatar,name,post count,site link,personal description and Email.
+== Description ==
+
+Adds an author box after your post contents.The box contains author's avatar,name,post count,site link,personal description and Email.
 This plugin will allow you to place author bio in author url above all posts written by the author.
 This plugin works best with the twenty eleven theme.
 
@@ -22,7 +29,7 @@ Author URI:http://www.7boats.com/
 
 
 == Screenshots ==
-1. Author posts.
+1. Author posts
 2. Author bio below a post
 3. Easy Author Box settings page
  
