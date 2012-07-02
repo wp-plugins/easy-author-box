@@ -27,13 +27,22 @@ Author URI:http://www.7boats.com/
 3. Edit your WordPress user profile.
 4. Use the settings page to choose when to display bio.
 
+== Frequently Asked Questions ==
+
+= How can I change my author photo/avatar? =
+
+You can change your author pic from gravatar.com. You have to upload a pic and associate your or your site's email id there.
+
+= How can I change the background color or font color in author bio? =
+
+You can change them by manually editing the 'authorbox.css' file. It's easy!!
 
 == Screenshots ==
 
-1. Author bio below a post correponds to screenshot-1.png
-2. Author bio above all author posts corresponds to screenshot-2.png
-3. Profile settings page corresponds to screenshot-3.png
-4. Easy Author Box description page correponds to screenshot-4.png
+1. Author bio below a post correponds to screenshot 1.png
+2. Author bio above all author posts corresponds to screenshot 2.png
+3. Profile settings page corresponds to screenshot 3.png
+4. Easy Author Box description page correponds to screenshot 4.png
  
 
 
