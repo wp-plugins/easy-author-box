@@ -1,4 +1,5 @@
 === Easy Author Box ===
+
 Contributors: rohinisingh
 Donate link: http://www.7boats.com
 Tags: Author, bio
@@ -11,13 +12,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Adds an author box after your post contents.The box contains author's avatar,name,post count,site link,personal description and Email.
-This plugin will allow you to place author bio in author url above all posts written by the author.
+Adds an author box after your post contents.The box contains author's avatar,name,post count,site link,personal description and Email. This plugin will allow you to place author bio in author url above all posts written by the author.
 This plugin works best with the twenty eleven theme.
 
 Version: 1.0
 
 Author: Rohini Singh
+
 Author URI:http://www.7boats.com/
 
 == Installation ==
@@ -29,6 +30,7 @@ Author URI:http://www.7boats.com/
 
 
 == Screenshots ==
+
 1. Author posts
 2. Author bio below a post
 3. Easy Author Box settings page
