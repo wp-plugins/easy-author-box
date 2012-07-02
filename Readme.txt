@@ -30,10 +30,10 @@ Author URI:http://www.7boats.com/
 
 == Screenshots ==
 
-1. Author bio below a post correponds to screenshot 1.png
-2. Author bio above all author posts corresponds to screenshot 2.png
-3. Profile settings page corresponds to screenshot 3.png
-4. Easy Author Box description page correponds to screenshot 4.png
+1. Author bio below a post correponds to screenshot-1.png
+2. Author bio above all author posts corresponds to screenshot-2.png
+3. Profile settings page corresponds to screenshot-3.png
+4. Easy Author Box description page correponds to screenshot-4.png
  
 
 
