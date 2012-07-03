@@ -1,6 +1,6 @@
 === Easy Author Box ===
 
-Contributors: rohinisingh
+Contributors: rohinisingh, debajyoti
 Donate link: http://www.7boats.com
 Tags: Author, bio
 Requires at least: 3.0.1
