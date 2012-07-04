@@ -41,9 +41,6 @@ You can change them by manually editing the 'authorbox.css' file. It's easy!!
 
 Yes, you can place anchor text or links in your author bio. You just need to put the html code in your Wordpress admin user profile section. (For example, "Robin works in a <a href="http://www.7boats.com">SEO company India</a>")
 
-= Where can I see a live Demo? =
-
-You can see a live demo here - http://www.7boats.com/tips-to-benefit-from-google-panda-updates-penguin-updates/
 
 == Screenshots ==
 
