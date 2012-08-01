@@ -1,10 +1,10 @@
 
 <div class='wrap'>
 	<h2>Easy Author Box</h2>
-    <p>This is the first working version of the Easy Author Box Plugin Version 1.0.</p>
-	<P>We will be releasing the next version shortly which will include the User Display Settings.</p>
+    <p>This is the second working version of the Easy Author Box Plugin Version 1.0.1</p>
+	
 	<h2>Plugin Description</h2>
-	<p>Adds an author box after your post contents.The box contains author's avatar,name,post count,site link,personal description and Email.This plugin will allow you to place author bio in author url above all posts written by the author.This plugin works best with the twenty eleven theme.Edit your WordPress user profile to reflect it in author bio.</p>
+	<p>Adds an author box after your post contents.The box contains author's avatar,name,post count,site link,personal description and Email.This plugin will allow you to place author bio in author url above all posts written by the author.This plugin works best with the twenty eleven theme.It also comes with the new display settings to the user who can change the author box colours accordingly.The display setting is included in the tools section from where the user can change the colours of the author box.Also the social media links can be added to the author box through a special settings page which is present in the user profile section page.</p>
 </p>
 	
      <h2>Author Box Donation</h2>
